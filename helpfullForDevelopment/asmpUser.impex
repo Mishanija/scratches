@@ -1,0 +1,9 @@
+$userId=375291170666
+
+$productCatalog = velcomProductCatalog
+$catalogVersion = catalogversion(catalog(id[default = $productCatalog]), version[default = 'Staged'])[unique = true, default = $productCatalog:Staged]
+$supercategories = supercategories(code, $catalogVersion)
+$approved = approvalstatus(code)[default = 'approved']
+INSERT_UPDATE Subscriber; uid[unique = true]; msisdn[unique = true]; name; email; orgUnit(uid); groups(uid)[mode = append]; sessionCurrency(isocode)[default = BYN];
+#INDIVIDUAL
+; $userId ; $userId ; "Subscriber_10" ; ffffffffffff@asadchy.com ; "1e28aa7b-8fbb-4380-b0af-8554af135f51" ; "1e28aa7b-8fbb-4380-b0af-8554af135f51,customergroup" ;

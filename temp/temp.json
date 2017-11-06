@@ -1,0 +1,621 @@
+{
+  "response": [
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "description": {
+        "de": null
+      },
+      "restrictions": [],
+      "title": {
+        "de": null
+      },
+      "type": {
+        "de": null
+      },
+      "uuid": "eyJpdGVtSWQiOiJ2ZWxjb21XaWRnZXRDb21wb25lbnQxIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "VelcomWidgetComponent1",
+      "uid": "velcomWidgetComponent1",
+      "slots": [
+        "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+        "eyJpdGVtSWQiOiJjc18wMDAwMDBSUyIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "itemtype": "VelcomWidgetComponent1",
+      "modifiedtime": "2017-06-09T16:46:13+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "name1",
+      "containers": [],
+      "creationtime": "2017-06-09T16:42:42+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "media": {
+        "de": "eyJpdGVtSWQiOiIvaW1hZ2VzL3RoZW1lL2xvZ29faHlicmlzX3Jlc3BvbnNpdmUuc3ZnIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      },
+      "type": {
+        "de": "Einfacher Banner – Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJTaXRlTG9nb0NvbXBvbmVudCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "SimpleBannerComponent",
+      "uid": "SiteLogoComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "external": false,
+      "itemtype": "SimpleBannerComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Site Logo Component",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": [],
+      "urlLink": "/"
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "description": {
+        "de": null
+      },
+      "restrictions": [],
+      "title": {
+        "de": null
+      },
+      "type": {
+        "de": null
+      },
+      "uuid": "eyJpdGVtSWQiOiJ2ZWxjb21XaWRnZXRDb21wb25lbnQxIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "VelcomWidgetComponent1",
+      "uid": "velcomWidgetComponent1",
+      "slots": [
+        "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+        "eyJpdGVtSWQiOiJjc18wMDAwMDBSUyIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "itemtype": "VelcomWidgetComponent1",
+      "modifiedtime": "2017-06-09T16:46:13+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "name1",
+      "containers": [],
+      "creationtime": "2017-06-09T16:42:42+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "description": {
+        "de": null
+      },
+      "type": {
+        "de": null
+      },
+      "title": {
+        "de": null
+      },
+      "uuid": "eyJpdGVtSWQiOiJ2ZWxjb21XaWRnZXRDb21wb25lbnQyIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "VelcomWidgetComponent2",
+      "uid": "velcomWidgetComponent2",
+      "slots": [
+        "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "itemtype": "VelcomWidgetComponent2",
+      "modifiedtime": "2017-06-09T16:42:42+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "name2",
+      "creationtime": "2017-06-09T16:42:42+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "description": {
+        "de": null
+      },
+      "restrictions": [],
+      "media": {
+        "de": null
+      },
+      "title": {
+        "de": null
+      },
+      "type": {
+        "de": null
+      },
+      "uuid": "eyJpdGVtSWQiOiJ2ZWxjb21XaWRnZXRDb21wb25lbnQzIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "VelcomWidgetComponent3",
+      "uid": "velcomWidgetComponent3",
+      "slots": [
+        "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "external": false,
+      "itemtype": "VelcomWidgetComponent3",
+      "modifiedtime": "2017-06-09T16:42:42+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "name3",
+      "containers": [],
+      "creationtime": "2017-06-09T16:42:42+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "navigationNode": "eyJpdGVtSWQiOiJNeUFjY291bnROYXZOb2RlIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "restrictions": [
+        "eyJpdGVtSWQiOiJsb2dnZWRJblVzZXIiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "type": {
+        "de": "Konto-Navigationskomponente"
+      },
+      "styleClass": "accNavComponent",
+      "uuid": "eyJpdGVtSWQiOiJNeUFjY291bnRDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "NavigationComponent",
+      "uid": "MyAccountComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJIZWFkZXJMaW5rc1Nsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "itemtype": "NavigationComponent",
+      "modifiedtime": "2017-06-09T15:04:00+0000",
+      "restricted": true,
+      "onlyOneRestrictionMustApply": true,
+      "name": "My Account",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "Komponente für unterstützten Service"
+      },
+      "uuid": "eyJpdGVtSWQiOiJBc3Npc3RlZFNlcnZpY2VDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "content": {
+        "de": null
+      },
+      "typeCode": "AssistedServiceComponent",
+      "uid": "AssistedServiceComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJUb3BIZWFkZXJTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "itemtype": "AssistedServiceComponent",
+      "modifiedtime": "2017-06-09T15:05:44+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Assisted Service Component",
+      "containers": [],
+      "creationtime": "2017-06-09T15:05:44+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "maxProducts": 4,
+      "displayProducts": true,
+      "restrictions": [],
+      "displayProductImages": true,
+      "type": {
+        "de": "SearchBox-Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "minCharactersBeforeRequest": 3,
+      "typeCode": "SearchBoxComponent",
+      "uid": "SearchBox",
+      "slots": [
+        "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "maxSuggestions": 6,
+      "itemtype": "SearchBoxComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "displaySuggestions": true,
+      "name": "Search Box",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "waitTimeBeforeRequest": 500,
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "navigationNode": "eyJpdGVtSWQiOiJPcmRlck5hdk5vZGUiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "restrictions": [],
+      "type": {
+        "de": "Konto-Navigationskomponente"
+      },
+      "styleClass": "nav-order-tools",
+      "uuid": "eyJpdGVtSWQiOiJPcmRlckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "NavigationComponent",
+      "uid": "OrderComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "itemtype": "NavigationComponent",
+      "modifiedtime": "2017-06-09T15:04:00+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Order Component",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "shownProductCount": 3,
+      "visible": true,
+      "totalDisplay": "SUBTOTAL",
+      "restrictions": [],
+      "type": {
+        "de": "Mini-Warenkorb – Komponente"
+      },
+      "title": {
+        "de": "Ihr Warenkorb"
+      },
+      "uuid": "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "MiniCartComponent",
+      "uid": "MiniCart",
+      "slots": [
+        "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9"
+      ],
+      "itemtype": "MiniCartComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Mini Cart",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "wrapAfter": 10,
+      "navigationNode": "eyJpdGVtSWQiOiJBcHBhcmVsREVDYXRlZ29yeU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "restrictions": [],
+      "type": {
+        "de": "Kategorienavigationskomponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJBcHBhcmVsREVDYXRlZ29yeU5hdkNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "CategoryNavigationComponent",
+      "uid": "ApparelDECategoryNavComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJOYXZpZ2F0aW9uQmFyU2xvdCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "itemtype": "CategoryNavigationComponent",
+      "modifiedtime": "2017-06-09T15:04:00+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Apparel-DE Category Navigation Component",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "container": false,
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "Breadcrumb-Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJicmVhZGNydW1iQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "BreadcrumbComponent",
+      "uid": "breadcrumbComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJOYXZpZ2F0aW9uQmFyU2xvdCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "itemtype": "BreadcrumbComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Breadcrumb CMS Component",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "showLanguageCurrency": true,
+      "wrapAfter": 4,
+      "navigationNode": "eyJpdGVtSWQiOiJGb290ZXJOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "restrictions": [],
+      "type": {
+        "de": "Fußzeilennavigationskomponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJGb290ZXJOYXZpZ2F0aW9uQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "FooterNavigationComponent",
+      "uid": "FooterNavigationComponent",
+      "slots": [
+        "eyJpdGVtSWQiOiJGb290ZXJTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "itemtype": "FooterNavigationComponent",
+      "modifiedtime": "2017-06-09T15:04:00+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "FooterNavigationComponent",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": [],
+      "notice": {
+        "de": null
+      }
+    },
+    {
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "container": false,
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "ProductVariantSelector-Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJWYXJpYW50U2VsZWN0b3IiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "ProductVariantSelectorComponent",
+      "uid": "VariantSelector",
+      "slots": [
+        "eyJpdGVtSWQiOiJWYXJpYW50U2VsZWN0b3JTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "itemtype": "ProductVariantSelectorComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Product Variant Selector",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "container": false,
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "ProductAddToCart-Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJBZGRUb0NhcnQiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "ProductAddToCartComponent",
+      "uid": "AddToCart",
+      "slots": [
+        "eyJpdGVtSWQiOiJBZGRUb0NhcnRTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "itemtype": "ProductAddToCartComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Product Add To Cart",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": [
+        "eyJpdGVtSWQiOiJBZGRUb0NhcnRBY3Rpb24iLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+        "eyJpdGVtSWQiOiJTaGFyZU9uU29jaWFsTmV0d29ya0FjdGlvbiIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ]
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "maximumNumberProducts": 5,
+      "productReferenceTypes": [
+        "CROSSELLING"
+      ],
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "Produktreferenzen – Komponente"
+      },
+      "title": {
+        "de": "Complete the look"
+      },
+      "uuid": "eyJpdGVtSWQiOiJDcm9zc1NlbGxpbmciLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "ProductReferencesComponent",
+      "uid": "CrossSelling",
+      "slots": [
+        "eyJpdGVtSWQiOiJDcm9zc1NlbGxpbmdTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "displayProductPrices": true,
+      "itemtype": "ProductReferencesComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "displayProductTitles": true,
+      "name": "Cross Selling",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "maximumNumberProducts": 5,
+      "productReferenceTypes": [
+        "SIMILAR"
+      ],
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "Produktreferenzen – Komponente"
+      },
+      "title": {
+        "de": "Das kÃ¶nnte Ihnen auch gefallen"
+      },
+      "uuid": "eyJpdGVtSWQiOiJTaW1pbGFyIiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+      "typeCode": "ProductReferencesComponent",
+      "uid": "Similar",
+      "slots": [
+        "eyJpdGVtSWQiOiJVcFNlbGxpbmdTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "displayProductPrices": true,
+      "itemtype": "ProductReferencesComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "displayProductTitles": true,
+      "name": "Similar",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "maximumNumberProducts": 5,
+      "productReferenceTypes": [
+        "OTHERS"
+      ],
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "Produktreferenzen – Komponente"
+      },
+      "title": {
+        "de": "Accessories"
+      },
+      "uuid": "eyJpdGVtSWQiOiJPdGhlcnMiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "ProductReferencesComponent",
+      "uid": "Others",
+      "slots": [
+        "eyJpdGVtSWQiOiJVcFNlbGxpbmdTbG90IiwiY2F0YWxvZ0lkIjoiYXBwYXJlbC1kZUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+      ],
+      "displayProductPrices": true,
+      "itemtype": "ProductReferencesComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "displayProductTitles": true,
+      "name": "Others",
+      "containers": [],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "JSP in Komponente einschließen"
+      },
+      "title": {
+        "de": "Produktdetails"
+      },
+      "uuid": "eyJpdGVtSWQiOiJQcm9kdWN0RGV0YWlsc1RhYkNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "JspIncludeComponent",
+      "uid": "ProductDetailsTabComponent",
+      "slots": [],
+      "itemtype": "JspIncludeComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Product Details Tab",
+      "containers": [
+        "eyJpdGVtSWQiOiJUYWJQYW5lbENvbnRhaW5lciIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "page": "productDetailsTab.jsp",
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "JSP in Komponente einschließen"
+      },
+      "title": {
+        "de": "Specs"
+      },
+      "uuid": "eyJpdGVtSWQiOiJQcm9kdWN0U3BlY3NUYWJDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJhcHBhcmVsLWRlQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+      "typeCode": "JspIncludeComponent",
+      "uid": "ProductSpecsTabComponent",
+      "slots": [],
+      "itemtype": "JspIncludeComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Product Specification Tab",
+      "containers": [
+        "eyJpdGVtSWQiOiJUYWJQYW5lbENvbnRhaW5lciIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "page": "productSpecsTab.jsp",
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "type": {
+        "de": "JSP in Komponente einschließen"
+      },
+      "title": {
+        "de": "Bewertungen"
+      },
+      "uuid": "eyJpdGVtSWQiOiJQcm9kdWN0UmV2aWV3c1RhYkNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "typeCode": "JspIncludeComponent",
+      "uid": "ProductReviewsTabComponent",
+      "slots": [],
+      "itemtype": "JspIncludeComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Product Reviews Tab",
+      "containers": [
+        "eyJpdGVtSWQiOiJUYWJQYW5lbENvbnRhaW5lciIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "page": "productReviewsTab.jsp",
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    },
+    {
+      "container": false,
+      "catalogVersion": "apparel-deContentCatalog/Online",
+      "visible": true,
+      "restrictions": [],
+      "title": {
+        "de": "Lieferung"
+      },
+      "type": {
+        "de": "Registerkartenabsatz – Komponente"
+      },
+      "uuid": "eyJpdGVtSWQiOiJkZWxpdmVyeVRhYiIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+      "content": {
+        "de": "<div class=\"tab-delivery\">Lorem ipsum dolor sit amet, dolor sed, ut nam ut. Senectus mauris egestas a massa, enim placeat wisi congue purus fermentum. Ut aptent mauris dapibus congue in sit. Sed dolor varius amet feugiat volutpat dignissim, pede a rhoncus sodales aliquam adipiscing, dapibus massa fusce. Dui egestas ornare urna nibh facilisi, cras posuere. Lorem aliquam accumsan eleifend sem libero lorem, aliquam sequi sed urna nec. Eget dolor quisque dolor, amet suspendisse ullamcorper minus elit lectus nunc, est mattis dui id eu et facilisis, conubia sit tristique. Ac fusce gravida condimentum iaculis neque, a platea curabitur accumsan porttitor vel justo. Amet potenti ac, eget amet ducimus sit nulla, ac porttitor rhoncus, justo proin tortor integer turpis nulla vitae. Egestas mollis litora nunc platea dui, eu semper mauris diam, erat quam, porta maecenas fusce libero non aliquet. Amet tellus taciti ligula sed sollicitudin, nonummy cursus enim, hendrerit nec, sed lacus sed at sit quis, semper a arcu mollis sapien nec pretium. Ante mauris eros nec, nonummy mauris, nulla lacinia vel. Volutpat luctus velit eu.</div>"
+      },
+      "typeCode": "CMSTabParagraphComponent",
+      "uid": "deliveryTab",
+      "slots": [],
+      "itemtype": "CMSTabParagraphComponent",
+      "modifiedtime": "2017-06-09T15:03:53+0000",
+      "restricted": false,
+      "onlyOneRestrictionMustApply": true,
+      "name": "Delivery tab",
+      "containers": [
+        "eyJpdGVtSWQiOiJUYWJQYW5lbENvbnRhaW5lciIsImNhdGFsb2dJZCI6ImFwcGFyZWwtZGVDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+      ],
+      "creationtime": "2017-06-09T15:03:53+0000",
+      "actions": []
+    }
+  ]
+}

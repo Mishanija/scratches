@@ -1,0 +1,14 @@
+Spec link:
+https://kb.epam.com/display/EPMESPVELC/02.01.014+Ability+of+the+end+user+to+select+tariff+on+Service+details+page
+
+О чем сторя:
+
+--- Designs ---
+
+--- General notes ---
+
+--- Business rules ---
+
+--- Assumptions ---
+
+--- Acceptance criteria ---

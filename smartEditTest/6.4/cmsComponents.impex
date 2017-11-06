@@ -1,0 +1,63 @@
+$contentCatalog = apparel-ukContentCatalog
+$contentCV = catalogVersion(CatalogVersion.catalog(Catalog.id[default = $contentCatalog]), CatalogVersion.version[default = Staged])[default = $contentCatalog:Staged]
+
+
+INSERT_UPDATE VelcomWidget1Component; uid[unique = true]; $contentCV[unique = true]; title; name
+; velcomWidget1Component ; ; velcomWidget1Component ; name1
+
+INSERT_UPDATE VelcomWidget2Component; uid[unique = true]; $contentCV[unique = true]; title; name
+; velcomWidget2Component ; ; velcomWidget2Component ; name2
+
+INSERT_UPDATE VelcomWidget3Component; uid[unique = true]; $contentCV[unique = true]; title; name
+; velcomWidget3Component ; ; velcomWidget3Component ; name3
+
+INSERT_UPDATE VelcomWidget1NavigationComponent; uid[unique=true];$contentCV[unique = true];title;name
+; velcomWidget1NavigationComponent ; ; velcomWidget1NavigationComponent ; name4
+
+INSERT_UPDATE VelcomWidget2NavigationComponent; uid[unique=true];$contentCV[unique = true];title;name
+; velcomWidget2NavigationComponent ; ; velcomWidget2NavigationComponent ; name5
+
+# Product Details Page Template
+# The CrossSelling and UpSelling slots are designed for related products, cross-sells and up-sells.
+INSERT_UPDATE ContentSlotName; name[unique = true]; template(uid, $contentCV)[unique = true][default = 'ProductDetailsPageTemplate']; validComponentTypes(code)[mode = append]
+; SiteLogo               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; HeaderLinks            ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; SearchBox              ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; MiniCart               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; NavigationBar          ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Section1               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Section2               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Section3               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Section4               ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; VariantSelector        ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; AddToCart              ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; CrossSelling           ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; UpSelling              ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Footer                 ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; Tabs                   ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; TopHeaderSlot          ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; BottomHeaderSlot       ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+; PlaceholderContentSlot ; ; VelcomWidget1Component,VelcomWidget2Component,VelcomWidget3Component,VelcomWidget1NavigationComponent,VelcomWidget2NavigationComponent
+
+#INSERT_UPDATE ContentSlot;$contentCV[unique=true];uid[unique=true];cmsComponents(uid,$contentCV)[mode=append]
+#;;SiteLogoSlot;velcomWidget1Component,velcomWidget2Component,velcomWidget3Component
+
+INSERT_UPDATE ContentSlotForTemplate;$contentCV[unique=true];uid[unique=true];position[unique=true];pageTemplate(uid,$contentCV)[unique=true][default='ProductDetailsPageTemplate'];contentSlot(uid,$contentCV)[unique=true];allowOverwrite
+;;SiteLogo-ProductDetails;SiteLogo;;SiteLogoSlot;true
+
+$START_USERRIGHTS;;;;;;;;;
+Type;UID;MemberOfGroups;Password;Target;read;change;create;remove;change_perm
+UserGroup;cmsmanagergroup;cockpitgroup,employeegroup;;;;;;;
+;;;;VelcomWidget1Component;+;+;+;+;+;
+;;;;VelcomWidget2Component;+;+;+;+;+;
+;;;;VelcomWidget3Component;+;+;+;+;+;
+;;;;VelcomWidget1NavigationComponent;+;+;+;+;+;
+;;;;VelcomWidget2NavigationComponent;+;+;+;+;+;
+$END_USERRIGHTS;;;;;
+
+INSERT_UPDATE ComponentTypeGroups2ComponentType;source(code)[unique=true];target(code)[unique=true]
+;wide;VelcomWidget1Component
+;wide;VelcomWidget2Component
+;wide;VelcomWidget3Component
+;wide;VelcomWidget1NavigationComponent
+;wide;VelcomWidget2NavigationComponent

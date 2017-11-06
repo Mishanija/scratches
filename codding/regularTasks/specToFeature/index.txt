@@ -1,0 +1,5 @@
+- determine dependencies of sections (BRs, Assumptions, GNs, etc)
+- link dependent stories to see its statuses
+
+- extensions require to develop this functionality
+- raised questions and provided answers

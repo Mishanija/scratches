@@ -1,0 +1,10 @@
+$regulargroup=regulargroup
+$customergroup=customergroup
+
+$defaultPassword=12341234
+INSERT_UPDATE Customer;uid[unique=true];groups(uid);password[default=$defaultPassword];name;&userref;
+;vipgold@hybris.com;customergroup;;Customer VIP Gold;vipgold@hybris.com;
+
+INSERT_UPDATE CxUserToSegment; segment(code)[unique = true]; user(uid)[unique = true]; affinity[default = 1];
+; VIPGold ; vipgold@hybris.com ;
+

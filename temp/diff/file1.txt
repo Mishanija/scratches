@@ -1,0 +1,9 @@
+{
+      "creationtime" : "2017-06-14T13:05:08+0000",
+      "modifiedtime" : "2017-06-14T13:05:14+0000",
+      "name" : "Apparel-UK Category Navigation Component",
+      "pk" : "8796107670588",
+      "typeCode" : "CategoryNavigationComponent",
+      "uid" : "ApparelUKCategoryNavComponent",
+      "visible" : true
+   }

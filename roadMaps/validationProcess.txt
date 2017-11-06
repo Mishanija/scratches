@@ -1,0 +1,6 @@
+ValidatorImpl.validateInContext.validateConstraintsForCurrentGroup - runs validation groups
+ValidatorImpl.validateConstraintsForNonDefaultGroup - all the constrains to apply (for all fields and groups)
+ConstraintTree.validateSingleConstraint - force single validator to validate single field
+
+ValidatorImpl.validateConstraint.isValidationRequired - if we need to execute the validation right now (based on current validationGroup)
+ValidatorImpl.validateConstraintsForNonDefaultGroup.shouldFailFast -

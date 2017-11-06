@@ -1,0 +1,70 @@
+<typegroup name="cmsComponentsSmartEditTest">
+    <itemtype code="VelcomWidget1Component" extends="SimpleCMSComponent"
+              jaloclass="by.velcom.storefront.addon.jalo.components.VelcomWidget1Component">
+        <attributes>
+            <attribute qualifier="title" type="localized:java.lang.String">
+                <description>Localized widget title, visible on storefront.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="description" type="localized:java.lang.String">
+                <description>Business user should be able to add promo text to content widget.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="mediaContainer" type="MediaContainer">
+                <description>Used for widget as a background picture. Business User provide separate image for Mobile
+                    and WEB versions.
+                </description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+        </attributes>
+    </itemtype>
+
+    <itemtype code="VelcomWidget2Component" extends="AbstractCMSComponent"
+              jaloclass="by.velcom.storefront.addon.jalo.components.VelcomWidget2Component">
+        <attributes>
+            <attribute qualifier="title" type="localized:java.lang.String">
+                <description>Localized widget title, visible on storefront.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="description" type="localized:java.lang.String">
+                <description>Business user should be able to add promo text to content widget.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="mediaContainer" type="MediaContainer">
+                <description>Used for widget as a background picture. Business User provide separate image for Mobile
+                    and WEB versions.
+                </description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+        </attributes>
+    </itemtype>
+
+    <itemtype code="VelcomWidget3Component" extends="SimpleBannerComponent"
+              jaloclass="by.velcom.storefront.addon.jalo.components.VelcomWidget3Component">
+        <attributes>
+            <attribute qualifier="title" type="localized:java.lang.String">
+                <description>Localized widget title, visible on storefront.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="description" type="localized:java.lang.String">
+                <description>Business user should be able to add promo text to content widget.</description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+            <attribute qualifier="mediaContainer" type="MediaContainer">
+                <description>Used for widget as a background picture. Business User provide separate image for Mobile
+                    and WEB versions.
+                </description>
+                <persistence type="property"/>
+                <modifiers optional="true"/>
+            </attribute>
+        </attributes>
+    </itemtype>
+</typegroup>

@@ -1,0 +1,4 @@
+$solrIndexedType = velcomProductType
+
+INSERT_UPDATE SolrIndexedType; identifier[unique = true]; listeners[mode=append]
+;$solrIndexedType; solrQueryDebuggingListener
